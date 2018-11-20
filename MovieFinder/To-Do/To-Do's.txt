@@ -1,0 +1,11 @@
+To-Do's:
+
+. Write a program that webscrapes nearby theaters from IMDB
+
+. Write a program that uses information from other IMDB webscraping programs to check which theaters within a 30 mile radius have the movie that the user wants to see
+
+. Create a UI mockup for the pages that will display the most convenient theaters from least to greatest in a table/list (Either scrollable or with multiple 5-10 theater pages)
+
+. Create a UI mockup for the initial user interface (Where the user selects their desired paramters)
+
+.Finilize both UI mockups
